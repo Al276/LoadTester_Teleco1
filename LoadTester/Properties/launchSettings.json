@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LoadTester": {
+      "commandName": "Project",
+      "commandLineArgs": "--concurrency 2000,5000,10000 --label estres"
+    }
+  }
+}
